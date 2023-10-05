@@ -1,4 +1,4 @@
-[
+const Employees =`[
     {
       "id": "1892471824071",
       "firstName": "Bruno",
@@ -79,5 +79,5 @@
       "department": "Research",
       "salary": "62000"
     }
-  ]
+]`
   
