@@ -58,3 +58,5 @@ mydata.forEach((value, index )=> {
     
 });
 
+
+console.table(mydata)
